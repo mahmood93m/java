@@ -1,0 +1,26 @@
+Intermediate Software Development ITMD411 - LAB3
+Data analytic results :
+
+Female Income is : $28646.32
+Male Income is : $27225.83
+Avg income is : $27936.07
+
+Number of Females with Mortage & Saving acct : 100
+Innercity region males with car & 1 child: 15
+TOWN region males with car & 1 child: 7
+Rural region males with car & 1 child: 9
+Suburban region males with car & 1 child: 3
+
+Maximum Age per region: 
+INNER_CITY : 67
+Town : 67
+Rural : 67
+Suburban : 67
+Minimum Age per region: 
+INNER_CITY : 18
+Town : 19
+Rural : 18
+Suburban : 18
+
+Current Date & Time= 2020/03/20 12:32:26
+Programmed by Mahmood Mehrjoo
